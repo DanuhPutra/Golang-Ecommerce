@@ -1,4 +1,4 @@
-module github.com/DanuhPutra
+module github.com/DanuhPutra/Golang-Ecommerce
 
 go 1.22.0
 
